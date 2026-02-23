@@ -28,7 +28,7 @@ Skill complet pour le développement en L4G de l'ERP Sage X3.
 ### OpenCode - Avec npx skills
 
 ```bash
-npx skills add opennext-dz/l4g-agent-skill
+npx skills add opennext-dz/agent-skills
 ```
 
 
@@ -38,7 +38,7 @@ Copier le fichier `SKILL.md` dans le répertoire des skills de Antigravity ou bi
    ```bash   
    cp SKILL.md ~/.antigravity/skills/SAGE_X3_L4G/SKILL.md
    
-   # Windows
+   # Sur le projet
    copy SKILL.md %PROJECTPATH%\.agent\skills\SAGE_X3_L4G\SKILL.md
    ```
 
