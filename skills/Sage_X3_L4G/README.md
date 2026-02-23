@@ -1,4 +1,4 @@
-# Sage X3 L4G Development Skill
+# Skill de développement L4G de Sage X3
 
 Skill complet pour le développement en L4G de l'ERP Sage X3.
 
